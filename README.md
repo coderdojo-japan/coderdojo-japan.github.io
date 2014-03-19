@@ -3,6 +3,11 @@ CoderDojo Japan
 
 CoderDojoは小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、現在では30カ国・300拠点で開催されています。
 
+## CoderDojoの情報源
+
+* [CoderDojo (英語)](http://coderdojo.com/)
+* [CoderDojo Japan (Facebookグループ)](https://www.facebook.com/groups/coderdojo.jp/)
+
 
 ## 日本各地のCoderDojo
 
