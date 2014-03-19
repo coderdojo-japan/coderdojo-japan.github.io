@@ -50,7 +50,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 ### 四国地方
 
 ### 九州地方
-* [CoderDojo Okinawa](http://okinawa.coderdojo.jp/)
+* 沖縄: [CoderDojo Okinawa](http://okinawa.coderdojo.jp/)
 * 鹿児島
 
 
