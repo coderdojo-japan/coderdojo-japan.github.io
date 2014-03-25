@@ -18,7 +18,6 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 
 * 仙台: [CoderDojo Sendai](http://www.cloud-garden.net/event/coderdojosendai/)
 * 泉: [CoderDojo Izumi](#)
-* 水戸
 
 ### 関東地方
 
@@ -27,6 +26,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 * 柏: [CoderDojo Kashiwa](http://coderdojokashiwa.wix.com/kashiwa)
 * ひばりヶ丘 [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
 * さいたま [CoderDojo Saitama](http://univ7f.com/tag/coder-dojo/)
+* 水戸
 * 栃木 (準備中)
 
 ### 中部地方
