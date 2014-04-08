@@ -17,7 +17,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 ### 東北地方
 
 * 仙台: [CoderDojo Sendai](http://www.cloud-garden.net/event/coderdojosendai/)
-* 泉: [CoderDojo Izumi](#)
+* 泉: [CoderDojo Izumi](http://coderdojo-izumi.github.io/)
 
 ### 関東地方
 
