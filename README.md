@@ -38,7 +38,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 
 ### 近畿地方
 
-* 西宮: [CoderDojo Nishinomiya](http://coderdojo-nishinomiya.doorkeeper.jp/)
+* 西宮: [CoderDojo Nishinomiya](http://coderdojo-nishinomiya.info/)
 * なんば: [CoderDojo Namba](https://www.facebook.com/CoderDojoNamba)
 * 串本: [CoderDojo Kushimoto](http://coderdojo.kushimo.to/)
 * 姫路 (画策中)
