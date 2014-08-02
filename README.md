@@ -35,6 +35,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 * 塩尻: [CoderDojo Shiojiri](http://coderdojo.shiojiri-osslabo.com/)
 * 福井: [CoderDojo Fukui](http://coderdojo.cowbell.jp/)
 * 松本
+* 名古屋: [CoderDojo Nagoya](http://coderdojo-nagoya.github.io/)
 
 ### 近畿地方
 
