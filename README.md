@@ -45,6 +45,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 * 串本: [CoderDojo Kushimoto](http://coderdojo.kushimo.to/)
 * 姫路 (画策中)
 * 奈良: [CoderDojo Nara](https://coderdojonara.wordpress.com/)
+* 梅田: [CoderDojo Umeda](http://coderdojo-nishinomiya.info/)
 
 ### 中国地方
 
