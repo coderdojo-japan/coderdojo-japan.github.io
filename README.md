@@ -26,7 +26,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 * 千葉: [CoderDojo Chiba](http://coderdojo-chiba.github.io/)
 * 柏: [CoderDojo Kashiwa](http://coderdojokashiwa.wix.com/kashiwa)
 * ひばりヶ丘 [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
-* さいたま [CoderDojo Saitama](http://univ7f.com/tag/coder-dojo/)
+* さいたま [CoderDojo Saitama](http://coderdojo-saitama.com/)
 * 新宿: [CoderDojo Shinjuku](http://coderdojoshinjuku.doorkeeper.jp/)
 * 水戸
 * 栃木 (準備中)
