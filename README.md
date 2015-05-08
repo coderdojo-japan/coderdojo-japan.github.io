@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 CoderDojoは小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
 
 ## CoderDojoの情報源
@@ -61,4 +66,3 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 
 このページはGitHub Pagesでホスティングされています。
 情報を更新するには、この[リポジトリ]([https://github.com/coderdojo-japan/coderdojo-japan.github.io/)をクローンして、この[README.md](https://github.com/coderdojo-japan/coderdojo-japan.github.io/edit/master/README.md)を変更の上プルリクエストを送ってください。
-
