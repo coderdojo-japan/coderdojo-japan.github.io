@@ -1,64 +1,34 @@
-CoderDojoは小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
+[coderdojo.jp](http://coderdojo.jp/)で公開されているウェブサイトの中身です。
 
-## CoderDojoの情報源
+[GitHub Pages](https://pages.github.com/)と[Jekyll](http://jekyllrb.com/) (Gemの名前は'github-pages') を使って公開されています。
 
-* [CoderDojo (英語)](http://coderdojo.com/)
-* [CoderDojo Japan (Facebookグループ)](https://www.facebook.com/groups/coderdojo.jp/)
-* [CoderDojo Kata - KataJapan (日本語Wiki)](http://kata.coderdojo.com/wiki/KataJapan)
+## 必要なソフトウェア
 
-## 日本各地のCoderDojo
+- [Ruby](https://www.ruby-lang.org/) (1.9.3以上)
+- [Bundler](http://bundler.io/)
 
-※世界のCoderDojoについては[こちら](http://zen.coderdojo.com/)。下記は国内のDojoのみ掲載しています。詳しくは、各地域のCoderDojoに問い合わせてみてください。
+参考: [GitHub Pages Basics](https://help.github.com/categories/github-pages-basics/)
 
-### 北海道地方
+## セットアップの手順
 
-* 旭川 [CoderDojo Asahikawa](http://coderdojo-asahikawa.github.io/)
+1. [Ruby](https://www.ruby-lang.org/) (1.9.3以上) をインストールする
+2. `$ gem install bundler` で Bundler をインストールする
+3. 本リポジトリを clone する
+4. 本リポジトリのトップディレクトリで `$ bundle install` を実行する
+5. `$ bundle exec jekyll serve -w` でローカルサーバを立ち上げる
+6. ブラウザから http://localhost:4000 にアクセスする
+7. CoderDojo Japan のページが表示されていれば OK :)
 
-### 東北地方
+詳細: [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/)
 
-* 仙台: [CoderDojo Sendai](http://www.cloud-garden.net/event/coderdojosendai/)
-* 泉: [CoderDojo Izumi](http://coderdojo-izumi.github.io/)
+## 編集の手順
 
-### 関東地方
-
-* 下北沢: [CoderDojo Tokyo](http://tokyo.coderdojo.jp/)
-* 小平：[CoderDojo Kodaira](http://coderdojo-kodaira.github.io)
-* 千葉: [CoderDojo Chiba](http://coderdojo-chiba.github.io/)
-* 柏: [CoderDojo Kashiwa](http://coderdojokashiwa.wix.com/kashiwa)
-* ひばりヶ丘 [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
-* さいたま [CoderDojo Saitama](http://coderdojo-saitama.com/)
-* 新宿: [CoderDojo Shinjuku](http://coderdojoshinjuku.doorkeeper.jp/)
-* 水戸
-* 栃木 (準備中)
-
-### 中部地方
-
-* 塩尻: [CoderDojo Shiojiri](http://coderdojo.shiojiri-osslabo.com/)
-* 福井: [CoderDojo Fukui](http://coderdojo.cowbell.jp/)
-* 松本
-* 名古屋: [CoderDojo Nagoya](http://coderdojo-nagoya.github.io/)
-
-### 近畿地方
-
-* 西宮: [CoderDojo Nishinomiya](http://coderdojo-nishinomiya.info/)
-* なんば: [CoderDojo Namba](https://www.facebook.com/CoderDojoNamba)
-* 串本: [CoderDojo Kushimoto](http://coderdojo.kushimo.to/)
-* 姫路 (画策中)
-* 奈良: [CoderDojo Nara](https://coderdojonara.wordpress.com/)
-* 梅田: [CoderDojo Umeda](http://coderdojo-nishinomiya.info/)
-
-### 中国地方
-
-### 四国地方
-
-### 九州地方
-* 鹿児島
+1. `$ bundle exec jekyll serve -w` でローカルサーバを立ち上げる
+2. `index.md` を Markdown で編集する
+3. ブラウザで変更結果を確認する
+4. 問題なさそうであれば Pull Request を送る
 
 
-## このページについて
+## 参考リポジトリ
 
-### 編集はプルリクエストで
-
-このページはGitHub Pagesでホスティングされています。
-情報を更新するには、この[リポジトリ]([https://github.com/coderdojo-japan/coderdojo-japan.github.io/)をクローンして、この[README.md](https://github.com/coderdojo-japan/coderdojo-japan.github.io/edit/master/README.md)を変更の上プルリクエストを送ってください。
-
+- [yasslab/yasslab.github.io](https://github.com/yasslab/yasslab.github.io)
