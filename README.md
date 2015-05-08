@@ -28,6 +28,7 @@
 3. ブラウザで変更結果を確認する
 4. 問題なさそうであれば Pull Request を送る
 
+参考: [Using pull requests](https://help.github.com/articles/using-pull-requests/)
 
 ## 参考リポジトリ
 
