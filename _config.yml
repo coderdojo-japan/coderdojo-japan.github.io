@@ -1,0 +1,8 @@
+permalink: /:title
+author:
+  name:  Yohei Yasukawa
+  email: yohei@yasslab.jp
+
+highlighter: pygments
+markdown: redcarpet
+exclude: ["vendor", "Gemfile", "Gemfile.lock"]
