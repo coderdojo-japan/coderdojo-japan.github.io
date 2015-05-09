@@ -6,7 +6,7 @@ lang:   ja
 
 
 
-CoderDojoは小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
+CoderDojo は小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
 
 ## CoderDojoの情報源
 
@@ -16,7 +16,7 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 
 ## 日本各地のCoderDojo
 
-※世界のCoderDojoについては[こちら](http://zen.coderdojo.com/)。下記は国内のDojoのみ掲載しています。詳しくは、各地域のCoderDojoに問い合わせてみてください。
+※世界の CoderDojo については[こちら](http://zen.coderdojo.com/)。下記は国内の Dojo のみ掲載しています。詳しくは、各地域の CoderDojo に問い合わせてみてください。
 
 ### 北海道地方
 
@@ -65,8 +65,12 @@ CoderDojoは小中学生のためのプログラミング道場です。2011年�
 
 ## このページについて
 
+本ページは、[CoderDojo Japan](https://www.facebook.com/groups/coderdojo.jp/) のメンバーによって運営されています。
+
+「CoderDojo の成り立ちを知りたい」「地元で Dojo を立ち上げたい」といった場合は、[Kata Japan (wiki)](http://kata.coderdojo.com/wiki/KataJapan) を参照してください :)
+
 ### 編集はプルリクエストで
 
-このページはGitHub Pagesでホスティングされています。
-情報を更新するには、この[リポジトリ]([https://github.com/coderdojo-japan/coderdojo-japan.github.io/)をクローンして、この[README.md](https://github.com/coderdojo-japan/coderdojo-japan.github.io/edit/master/README.md)を変更の上プルリクエストを送ってください。
+このページは GitHub Pages でホスティングされています。
+情報を更新するには、[coderdojo-japan.github.io](https://github.com/coderdojo-japan/coderdojo-japan.github.io/) リポジトリ内にある [index.md](https://github.com/coderdojo-japan/coderdojo-japan.github.io/blob/master/index.md) を変更の上、プルリクエストを送ってください。
 
