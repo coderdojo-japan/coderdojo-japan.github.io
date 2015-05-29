@@ -14,11 +14,14 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 
 ## CoderDojoをもっと詳しく知りたい
 
-下記ウェブサイトに行くと、より詳細な情報や最新の情報にアクセスできます。
+下記ウェブサイトに行くと、より詳細な情報や、最新の情報にアクセスできます。
 
 * [CoderDojo (英語)](http://coderdojo.com/)
 * [CoderDojo Japan (Facebookグループ)](https://www.facebook.com/groups/coderdojo.jp/)
 * [CoderDojo Kata - KataJapan (日本語Wiki)](http://kata.coderdojo.com/wiki/KataJapan)
+
+本家サイトであるCoderDojo (英語) では世界中の活動の様子が見れます。また、CoderDojo Japan (Facebookグループ) では国内の活動の様子を知ることができます。「過去の経緯が知りたい」「CoderDojoを立ち上げてみたい」といった場合には、CoderDojo Kata (日本語Wiki) を参照してみてください。
+
 
 ## 日本各地のCoderDojo
 
