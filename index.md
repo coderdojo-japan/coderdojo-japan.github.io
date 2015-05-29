@@ -5,10 +5,16 @@ lang:   ja
 ---
 
 
-
 CoderDojo は小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
 
-## CoderDojoの情報源
+## CoderDojoってどんな活動?
+
+まずは「[子ども向け無料プログラミング教室、CoderDojoとは？　運営者に話を聞いてみた！](http://bakemono.jp/reading/blog/web/2256/)」(バケモノ.jp) を読んでみてください。インタビュー形式で話が構成されているので、実際の活動のイメージがつきやすいかなと思います :)
+
+
+## CoderDojoをもっと詳しく知りたい
+
+下記ウェブサイトに行くと、より詳細な情報や最新の情報にアクセスできます。
 
 * [CoderDojo (英語)](http://coderdojo.com/)
 * [CoderDojo Japan (Facebookグループ)](https://www.facebook.com/groups/coderdojo.jp/)
@@ -16,7 +22,8 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 
 ## 日本各地のCoderDojo
 
-※世界の CoderDojo については[こちら](http://zen.coderdojo.com/)。下記は国内の Dojo のみ掲載しています。詳しくは、各地域の CoderDojo に問い合わせてみてください。
+※ 世界のCoderDojoについては[コチラ](http://zen.coderdojo.com/)。
+下記は国内のDojoのみ掲載しています。詳しくは各地域のCoderDojoに問い合わせてみてください。
 
 ### 北海道地方
 
