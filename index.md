@@ -4,6 +4,7 @@ title:  CoderDojo Japan - 小・中学生のためのプログラミング道場
 lang:   ja
 ---
 
+![Cover Photo](/img/coderdojo-japan_cover.jpg)
 
 CoderDojo は小中学生のためのプログラミング道場です。2011年にアイルランドで始まり、2015年4月現在では55カ国・550拠点で開催されています。
 
