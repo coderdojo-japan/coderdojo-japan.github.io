@@ -26,8 +26,8 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 
 ## 日本各地のCoderDojo
 
-※ 世界のCoderDojoについては[コチラ](http://zen.coderdojo.com/)。
-下記は国内のDojoのみ掲載しています。詳しくは各地域のCoderDojoに問い合わせてみてください。
+下記は国内のDojoのみを掲載しています。   
+詳しくは各地域のCoderDojoに問い合わせてみてください。
 
 ### 北海道地方
 
@@ -76,6 +76,9 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 ### 九州地方
 * 鹿児島
 
+### 海外
+
+海外のCoderDojoは[コチラ](http://zen.coderdojo.com/)からどうぞ。
 
 ## このページについて
 
