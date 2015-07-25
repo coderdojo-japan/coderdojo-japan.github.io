@@ -46,8 +46,6 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 * 柏: [CoderDojo Kashiwa](http://coderdojokashiwa.wix.com/kashiwa)
 * ひばりヶ丘 [CoderDojo Hibarigaoka](http://coderdojo.hanare-hibari.info/)
 * さいたま [CoderDojo Saitama](http://coderdojo-saitama.com/)
-* 水戸
-* 栃木 (準備中)
 * 八王子: [CoderDojo Hachioji](http://coderdojo.code4hachioji.org/)
 * 飯能: [CoderDojo Hanno](https://www.facebook.com/CoderDojoHanno)
 
@@ -55,24 +53,23 @@ CoderDojo は小中学生のためのプログラミング道場です。2011年
 
 * 塩尻: [CoderDojo Shiojiri](http://coderdojo.shiojiri-osslabo.com/)
 * 福井: [CoderDojo Fukui](http://coderdojo.cowbell.jp/)
-* 松本
 * 名古屋: [CoderDojo Nagoya](http://coderdojo-nagoya.github.io/)
 * 天白: [CoderDojo Tempaku](http://coderdojo-tempaku.hatenablog.com/)
 
-### 近畿地方
+### 関西地方
 
 * 西宮: [CoderDojo Nishinomiya](http://coderdojo-nishinomiya.info/)
-* なんば: [CoderDojo Namba](https://www.facebook.com/CoderDojoNamba)
-* 熊野: [CoderDojo Kumano](https://www.facebook.com/coderdojo.kumano)
-* 姫路 (画策中)
-* 奈良: [CoderDojo Nara](https://coderdojonara.wordpress.com/)
 * 梅田: [CoderDojo Umeda](http://coderdojo-nishinomiya.info/)
+* 熊野: [CoderDojo Kumano](https://www.facebook.com/coderdojo.kumano)
+* 奈良: [CoderDojo Nara](https://coderdojonara.wordpress.com/)
+* 長岡京: [CoderDojo 長岡京](https://coderdojo-nagaokakyo.doorkeeper.jp/)
 
 ### 中国地方
 
 ### 四国地方
 
 ### 九州地方
+
 * 鹿児島
 
 ### 海外
