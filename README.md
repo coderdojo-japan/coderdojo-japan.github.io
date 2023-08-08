@@ -1,4 +1,4 @@
-**:warning: 本リポジトリは過去アーカイブ版です。最新版は [:github: coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp) からご確認いただけます。**
+**:warning: 本リポジトリは過去アーカイブ版です。最新版は [coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp) からご確認いただけます。**
 
 [coderdojo.jp](http://coderdojo.jp/)で公開されているウェブサイトの中身です。
 
