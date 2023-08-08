@@ -35,4 +35,4 @@
 
 ## 他のリポジトリ 一覧
 
-- :octocat: https://github.com/coderdojo-japan (@coderdojo-japan)
+- :octocat: https://github.com/coderdojo-japan (CoderDojo Japan)
