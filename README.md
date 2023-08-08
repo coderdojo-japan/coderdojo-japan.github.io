@@ -1,3 +1,5 @@
+**:warning: 本リポジトリは過去アーカイブ版です。最新版は [:github: coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp) からご確認いただけます。**
+
 [coderdojo.jp](http://coderdojo.jp/)で公開されているウェブサイトの中身です。
 
 [GitHub Pages](https://pages.github.com/)と[Jekyll](http://jekyllrb.com/) (Gemの名前は'github-pages') を使って公開されています。
@@ -30,6 +32,7 @@
 
 参考: [Using pull requests](https://help.github.com/articles/using-pull-requests/)
 
-## 参考リポジトリ
 
-- [yasslab/yasslab.github.io](https://github.com/yasslab/yasslab.github.io)
+## 他のリポジトリ 一覧
+
+- :octocat: https://github.com/coderdojo-japan (@coderdojo-japan)
